@@ -6,11 +6,11 @@
 @ATTRIBUTE marriage {0,1,2,3}
 @ATTRIBUTE age REAL
 @ATTRIBUTE pay_0 {-2,-1,0,1,2,3,4,5,6,7,8}
-@ATTRIBUTE pay_2 {-2,-1,0,1,2,3,4,5,6,7}
+@ATTRIBUTE pay_2 {-2,-1,0,1,2,3,4,5,6,7,8}
 @ATTRIBUTE pay_3 {-2,-1,0,1,2,3,4,5,6,7,8}
 @ATTRIBUTE pay_4 {-2,-1,0,1,2,3,4,5,6,7,8}
-@ATTRIBUTE pay_5 {-2,-1,0,2,3,4,5,6,7,8}
-@ATTRIBUTE pay_6 {-2,-1,0,2,3,4,5,6,7,8}
+@ATTRIBUTE pay_5 {-2,-1,0,1,2,3,4,5,6,7,8}
+@ATTRIBUTE pay_6 {-2,-1,0,1,2,3,4,5,6,7,8}
 @ATTRIBUTE bill_amt1 REAL
 @ATTRIBUTE bill_amt2 REAL
 @ATTRIBUTE bill_amt3 REAL
